@@ -1,0 +1,12 @@
+# Model weights
+models/
+
+# Data
+pizza_steak_sushi/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
